@@ -14,3 +14,7 @@ fix-issue102...
 
 dev：push origin dev
 
+https://www.jb51.net/softjc/296682.html
+
+local proxy: 192.168.31.143:8888
+
