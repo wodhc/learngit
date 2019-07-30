@@ -18,3 +18,7 @@ https://www.jb51.net/softjc/296682.html
 
 local proxy: 192.168.31.143:8888
 
+dev_2.1
+
+dev_2.2
+
